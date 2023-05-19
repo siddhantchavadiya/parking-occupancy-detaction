@@ -1,2 +1,2 @@
-# parking-occupancy-detaction
-parking occupancy detaction using ML.
+# parking-occupancy-detection
+parking occupancy detection using ML.
